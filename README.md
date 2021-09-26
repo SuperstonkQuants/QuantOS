@@ -151,7 +151,7 @@ Hopefully it makes getting started and following along easier, please don't be a
 
 ## What you need
 
-The ISO: https://storage.googleapis.com/quantos/QuantOS.iso
+The ISO: https://storage.googleapis.com/quantos/QuantOSv0-1-0.iso
 
 A Virtual Machine:
 
